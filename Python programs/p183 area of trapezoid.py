@@ -1,5 +1,0 @@
-a=int(input("Enter value of first parallel side :"))
-b=int(input("Enter value of second parallel side :"))
-h=int(input("Enter value of height :"))
-area=0.5*h*(a+b)
-print("Area of trapezoid = ",area)
