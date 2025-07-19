@@ -1,0 +1,28 @@
+def add():
+    x=int(input("Enter first number = "))
+    y=int(input("Enter second number = "))
+    print("Add answer =",x+y)
+    print("*"*20)
+
+def sub():
+    x=int(input("Enter first number = "))
+    y=int(input("Enter second number = "))
+    print("Sub answer =",x-y)
+    print("*"*20)
+
+def mul():
+    x=int(input("Enter first number = "))
+    y=int(input("Enter second number = "))
+    print("Mul answer =",x*y)
+    print("*"*20)
+
+def div():
+    x=int(input("Enter first number = "))
+    y=int(input("Enter second number = "))
+    print("Div answer =",x/y)
+    print("*"*20)
+
+add()
+sub()
+mul()
+div()

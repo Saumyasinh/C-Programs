@@ -1,0 +1,7 @@
+t1=('s','a','u','m','y','a')
+print(t1[-1])
+print(t1[-2])
+print(t1[-3])
+print(t1[-4])
+print(t1[-5])
+print(t1[-6])

@@ -1,0 +1,10 @@
+list1=[11,5,60,77,80,95,30,20,5]
+print(list1[2:8])
+print(list1[5:8])
+print(list1[2:8])
+print(list1[:])
+print(list1[1:4])
+print(list1[2:8:3])
+print(list1[0:8:3])
+print(list1[0:8:5])
+print(list1[::2])
